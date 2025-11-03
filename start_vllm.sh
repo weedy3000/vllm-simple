@@ -1,1 +1,1 @@
-python -m vllm.entrypoints.openai.api_server --model /path/to/your/model
+python -m vllm.entrypoints.openai.api_server --model model
